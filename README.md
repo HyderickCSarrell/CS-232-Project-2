@@ -2,7 +2,7 @@ Hyderick C. Sarrell
 The Message Encrypter / Text Message Encryption Program
 September 19, 2015
 
-	The Message Encrypter is a Python program that I created in early 2013. This version was started later that year and 
+    The Message Encrypter is a Python program that I created in early 2013. This version was started later that year and 
 completed soon after. It works by asking the user to input a message then the program encrypts it using an encryption dictionary. 
 The program can also decrypt the message by using a decryption dictionary created from the encryption dictionary. Using the same 
 encryption methods, the program can receive and encrypt files with the same encryptions functions.
